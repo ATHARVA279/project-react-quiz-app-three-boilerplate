@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Quiz.css";
-import questions from "../Resources/quizQuestion.json";
+import questions from "../resources/quizQuestion.json";
 import { useNavigate } from "react-router-dom";
 
 function QuizComponent() {

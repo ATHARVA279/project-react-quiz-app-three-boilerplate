@@ -1,5 +1,4 @@
 import './App.css';
-import { BrowserRouter } from "react-router-dom";
 import { Route, Routes } from "react-router-dom";
 import HomeComponent from "./Components/HomeComponent"
 import QuizComponent from "./Components/QuizComponent"

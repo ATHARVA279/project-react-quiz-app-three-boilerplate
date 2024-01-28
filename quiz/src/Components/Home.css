@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;800&family=Poppins:wght@700&display=swap');
+
+body{
+    background-color: rgb(71,57,141);
+    font-family: 'Fredoka', sans-serif;
+}
+
+.startPage-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.play-btn{
+    margin-top:0;
+    background-color: rgb(10,179,6);
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    border-radius: 40px;
+    font-size: 1rem;
+    border: 3px outset rgb(0, 0, 0);
+}
